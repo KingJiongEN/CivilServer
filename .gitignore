@@ -1,0 +1,5 @@
+.idea/*
+bin/*
+obj/
+bin/Debug/netcoreapp3.1
+.vs/

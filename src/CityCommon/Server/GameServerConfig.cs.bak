@@ -1,0 +1,19 @@
+﻿namespace Plugins.CityCommon.Server
+{
+    public class GameServerConfig
+    {
+        public const float TIME_SCALE = 1;
+        public const float AGENT_BASE_SPEED = 3;
+        public const int MAX_AGENT_MEET_A_DAY = 3;
+        
+        public const string URL_GATE_DEV = "ws://13.210.20.147:3014";
+        public const string URL_GATE_LOCAL = "ws://127.0.0.1:3014";
+        public const string URL_GATE = URL_GATE_DEV;
+        public const string IMG_BASE_URL = "http://13.210.20.147:3001/";
+        public const string CHANNEL_CITY_SERVER = "CITY_SERVER";
+        public const string CHANNEL_CITY = "CITY";
+
+        public const string USER_NAME_GAME_SERVER = "_GameServer";
+        public const string USER_NAME_LLM = "_LLMServer";
+    }
+}

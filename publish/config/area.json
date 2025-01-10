@@ -1,0 +1,156 @@
+[
+    {
+        "area_id": 101,
+        "area_name": "Art exchange",
+        "x": 234,
+        "y": 244,
+        "img": "Art exchange 234x244y.png"
+    },
+    {
+        "area_id": 102,
+        "area_name": "Bakery",
+        "x": 71,
+        "y": 305,
+        "img": "Bakery 71x305y.png"
+    },
+    {
+        "area_id": 103,
+        "area_name": "Blue hostel",
+        "x": 246,
+        "y": 299,
+        "img": "Blue hostel 246x299y.png"
+    },
+    {
+        "area_id": 104,
+        "area_name": "Blue house",
+        "x": 42,
+        "y": 400,
+        "img": "Blue house 42x400y.png"
+    },
+    {
+        "area_id": 105,
+        "area_name": "Button pizza",
+        "x": 43,
+        "y": 305,
+        "img": "Button pizza 43x305y.png"
+    },
+    {
+        "area_id": 106,
+        "area_name": "Caffe",
+        "x": 30,
+        "y": 305,
+        "img": "Caffe 30x305y.png"
+    },
+    {
+        "area_id": 107,
+        "area_name": "Casino",
+        "x": 147,
+        "y": 417,
+        "img": "Casino 147x417y.png"
+    },
+    {
+        "area_id": 108,
+        "area_name": "Church",
+        "x": 162,
+        "y": 269,
+        "img": "Church 162x269y.png"
+    },
+    {
+        "area_id": 109,
+        "area_name": "Cocktail Bar",
+        "x": 103,
+        "y": 254,
+        "img": "Cocktail Bar 103x254y.png"
+    },
+    {
+        "area_id": 110,
+        "area_name": "Crypta Bar",
+        "x": 86,
+        "y": 305,
+        "img": "Crypta Bar 86x305y.png"
+    },
+    {
+        "area_id": 111,
+        "area_name": "Fitness",
+        "x": 33,
+        "y": 254,
+        "img": "Fitness 33x254y.png"
+    },
+    {
+        "area_id": 112,
+        "area_name": "Government office",
+        "x": 158,
+        "y": 180,
+        "img": "Government office 158x180y.png"
+    },
+    {
+        "area_id": 113,
+        "area_name": "Hospital",
+        "x": 20,
+        "y": 175,
+        "img": "Hospital 20x175y.png"
+    },
+    {
+        "area_id": 114,
+        "area_name": "Ice cream",
+        "x": 56,
+        "y": 305,
+        "img": "Ice cream 56x305y.png"
+    },
+    {
+        "area_id": 115,
+        "area_name": "Librairie",
+        "x": 106,
+        "y": 305,
+        "img": "Librairie 106x305y.png"
+    },
+    {
+        "area_id": 116,
+        "area_name": "Music store",
+        "x": 19,
+        "y": 254,
+        "img": "Music store 19x254y.png"
+    },
+    {
+        "area_id": 117,
+        "area_name": "News station",
+        "x": 100,
+        "y": 372,
+        "img": "News station 100x372y.png"
+    },
+    {
+        "area_id": 118,
+        "area_name": "Agent hotel",
+        "x": 75,
+        "y": 245,
+        "img": "Agent hotel 75x245y.png"
+    },
+    {
+        "area_id": 119,
+        "area_name": "Pink book store",
+        "x": 151,
+        "y": 371,
+        "img": "Pink book store 151x371y.png"
+    },
+    {
+        "area_id": 120,
+        "area_name": "Pink hostel",
+        "x": 219,
+        "y": 411,
+        "img": "Pink hostel 219x411y.png"
+    },
+    {
+        "area_id": 121,
+        "area_name": "Pink house",
+        "x": 42,
+        "y": 369,
+        "img": "Pink house 42x369y.png"
+    },
+    {
+        "area_id": 122,
+        "area_name": "Rad restaurant",
+        "x": 166,
+        "y": 370,
+        "img": "Rad restaurant 166x370y.png"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "attr_id": 101,
+        "attr_name": "Energy",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 1,
+        "anim_duration": 2.0,
+        "attr_icon": "ic_energy"
+    },
+    {
+        "attr_id": 102,
+        "attr_name": "Gold",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 1,
+        "anim_duration": 2.0,
+        "attr_icon": "ic_gold"
+    },
+    {
+        "attr_id": 103,
+        "attr_name": "Primitive",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 104,
+        "attr_name": "Character",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 105,
+        "attr_name": "Creativity",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 106,
+        "attr_name": "Charm",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 107,
+        "attr_name": "Art Style",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 108,
+        "attr_name": "Rebelliousness",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 0,
+        "anim_duration": 0.0
+    },
+    {
+        "attr_id": 109,
+        "attr_name": "Health",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 1,
+        "anim_duration": 2.0,
+        "attr_icon": "ic_health"
+    },
+    {
+        "attr_id": 110,
+        "attr_name": "Mood",
+        "visible": 1,
+        "hide_on_zero": 0,
+        "variable": 1,
+        "anim_duration": 2.0,
+        "attr_icon": "ic_mood"
+    }
+]
